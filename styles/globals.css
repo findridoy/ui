@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rotate-x-0 {
+  transform: rotateX(0deg);
+}
+
+.-rotate-x-90 {
+  transform: rotateX(-90deg);
+}
